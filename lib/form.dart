@@ -22,7 +22,6 @@ class _DisplayInfoAppState extends State<DisplayInfoApp> {
     return Form(
         key: _formKey,
         child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
           children: [
             SizedBox(
               height: 10,

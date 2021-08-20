@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
             backgroundColor: Colors.teal,
           ),
           body: Padding(
-            padding: const EdgeInsets.all(10),
+            padding: const EdgeInsets.fromLTRB(10, 10, 10, 30),
             child: DisplayInfoApp(),
           ),
         ));

@@ -9,7 +9,11 @@ class Profile extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.teal,
+      appBar: AppBar(
+        title: Text("My Profile"),
+        backgroundColor: Colors.teal,
+      ),
+      backgroundColor: Colors.blue[400],
       body: SafeArea(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
@@ -19,14 +23,15 @@ class Profile extends StatelessWidget {
               backgroundImage: AssetImage('images/hng8-image.png'),
             ),
             SizedBox(
-              height: 10.0,
+              height: 30.0,
             ),
             Text(
               model.firstName + ' ' + model.lastName,
               style: TextStyle(
                 fontFamily: 'Lobster',
-                fontSize: 42.0,
+                fontSize: 45.0,
                 color: Colors.white,
+                letterSpacing: 2.0,
                 fontWeight: FontWeight.bold,
               ),
             ),
@@ -38,7 +43,7 @@ class Profile extends StatelessWidget {
               style: TextStyle(
                 letterSpacing: 2.0,
                 color: Colors.white,
-                fontSize: 23.0,
+                fontSize: 25.0,
                 fontWeight: FontWeight.bold,
               ),
             ),
@@ -51,6 +56,9 @@ class Profile extends StatelessWidget {
               child: Divider(
                 color: Colors.white,
               ),
+            ),
+            SizedBox(
+              height: 10.0,
             ),
             Card(
               color: Colors.white,
