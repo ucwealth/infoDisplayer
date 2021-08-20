@@ -7,7 +7,7 @@ Made for HNG/Zuri Internship 8 - Task 2
 https://zuri.team
 https://internship.zuri.team
 
-
+![I4G](https://github.com/ucwealth/infoDisplayer/blob/main/ingressive-logo-300x300.jpg)
 
 ## Link to Hosted App:
 https://appetize.io/app/rme2gubzw1qj2jdzy2kqq67kq8?device=iphone11promax&scale=50&orientation=portrait&osVersion=14.1&deviceColor=black
