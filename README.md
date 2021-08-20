@@ -23,4 +23,4 @@ https://appetize.io/app/rme2gubzw1qj2jdzy2kqq67kq8?device=iphone11promax&scale=5
 
 
 ## App Demo
-![Demo](https://github.com/ucwealth/infoDisplayer/blob/main/Screen%20Recording%202021-08-20%20at%2013.07.50.mov)
+![Demo](https://github.com/ucwealth/infoDisplayer/blob/main/Screen%20Recording%202021-08-20%20at%2013.07.50.gif)
