@@ -3,5 +3,5 @@
 An app that takes user input and displays it on the screen
 
 ## Demo
-![Demo](https://user-images.githubusercontent.com/43139388/130210692-14e09a6a-aaed-4ec2-a08f-5258e69e2223.mov)
+![Demo](https://user-images.githubusercontent.com/43139388/130212092-2b06d988-0dc1-4fdf-b661-601ac96a77e8.mov)
 
